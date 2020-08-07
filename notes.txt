@@ -1,0 +1,20 @@
+uniqid
+    - https://www.npmjs.com/package/uniqid
+    - Allows for adding text inbetween the generated string
+        - uniqid('hello-', '-goodbye') -> "hello-4n5pxq24kpiob12og9-goodbye"
+    - ATM only able to write the results to a text file using cmd 'node index.js >> notes.txt'
+ 
+https://www.npmjs.com/package/jsqr
+
+test unique id
+
+
+You need to tell react to reload the page
+
+you can asign an alius to a module using 'as'
+
+
+
+- Run gen.js THEN index.js
+-qr2.png will be replced when gen is ran
+-index.js will then create the pdf with the qr code and the uniqid
